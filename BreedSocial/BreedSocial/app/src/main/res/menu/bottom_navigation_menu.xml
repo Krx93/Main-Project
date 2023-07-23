@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home_button"
+        android:icon="@drawable/baseline_cottage_24"
+        android:title="@string/home_button"/>
+    <item
+        android:id="@+id/profile_button"
+        android:icon="@drawable/baseline_chat_24"
+        android:title="@string/chat_title"/>
+    <item
+        android:id="@+id/settings_button"
+        android:icon="@drawable/baseline_settings_24"
+        android:title="@string/settings_title"/>
+</menu>

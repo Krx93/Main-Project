@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Breed Social</string>
+    <string name="home_button">Home</string>
+    <string name="chat_title">Chat</string>
+    <string name="settings_title">Settings</string>
+    <string name="signed_in_as_prompt">Signed in as %s</string>
+
+
+</resources>

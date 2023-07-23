@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1005266685171",
+    "project_id": "dogbreedapp-a0114",
+    "storage_bucket": "dogbreedapp-a0114.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005266685171:android:73ecd5d0a27ae6a1e1fb86",
+        "android_client_info": {
+          "package_name": "com.example.breedsocial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1005266685171-0phqjjl34lmfv7h6e5qvg1phuldn9vn0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3xP2WBVOu1j1B4lrZlFLgUp-2FZR6eN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1005266685171-0phqjjl34lmfv7h6e5qvg1phuldn9vn0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
